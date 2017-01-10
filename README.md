@@ -6,7 +6,7 @@ Press Alt-F7 in IDA, then select the dumptable.py file
 
 ## License
 
-Copyright (C) 2017 dude719
+Copyright (C) 2017 Aidan Khoury (dude719)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
